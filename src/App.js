@@ -12,7 +12,7 @@ function App() {
       title:
       body:
       lastModified:
-    }
+    } 
   }
 
   return (
